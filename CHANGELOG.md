@@ -3,7 +3,7 @@
 
 ### Features
 
-* validate props and bundle assets ([083805d](https://github.com/cfedk/cdk-node-lambda-wrapper/commit/083805d78463192a248ffa35b0e80731832c946f))
+* validate props and bundle assets ([81b84f6](https://github.com/cfedk/cdk-node-lambda-wrapper/commit/81b84f634cceaf92d7fe23c4edcda8106de18a3d))
 
 
 
